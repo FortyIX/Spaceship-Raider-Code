@@ -1,0 +1,55 @@
+html {
+    background: url(background.jpg)
+}
+
+.container {
+    width: 500px;
+    height: 400px;
+    text-align: center;
+    background-color: rgba(52, 73, 94, 0.7);
+
+    margin: 0 auto;
+    margin-top: 170px;
+}
+
+input[type="text"], input[type="password"] {
+    height: 45px;
+    width: 300px;
+    font-size: 18px;
+    background-color: #fff;
+    top: 50%;
+    left 50%;
+    transform: translate(0, 70px);
+}
+
+.btn-login {
+    padding: 10px 90px;
+    transform: translate(0, 90px);
+    color: #fff;
+    background-color: rgb(26, 175, 170);
+    border: none;
+    border-radius: 4px;
+    border-bottom: 4px solid rgb(26, 175, 170);
+}
+
+.notice {
+    color: #FFF;
+    font-size: 40px;
+    transform: translate(30px, 40px);
+}
+
+.notice2 {
+    color: #FFF;
+    font-size: 18px;
+    transform: translate(0, -3px);
+}
+
+
+.label{
+
+  font-size: 40px;
+}
+
+}
+
+}

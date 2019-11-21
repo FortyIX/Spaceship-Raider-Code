@@ -1,0 +1,42 @@
+
+.container{
+
+   background-color: rgb(39, 126, 198);
+   margin: 0 auto;
+   margin-top: 150px;
+   width: 500px;
+   height: 300px;
+   border-radius: 10px;
+
+
+}
+
+input[type="text"], input[type="password"] {
+    height: 45px;
+    width: 300px;
+    font-size: 18px;
+    background-color: #fff;
+    top: 50%
+    left 50%;
+    transform: translate(95px, 40px);
+
+}
+
+.btn-signup{
+
+  padding: 10px 90px;
+  transform: translate(130px, 70px);
+  color: #fff;
+  background-color: rgb(26, 175, 170);
+  border: none;
+  border-radius: 4px;
+  border-bottom: 4px solid rgb(26, 175, 170);
+}
+
+.title{
+  
+  font-size:30px;
+  font-family: monospace;
+  color: rgb(255, 255, 255);
+  transform: translate(-50%,0);
+}

@@ -1,0 +1,95 @@
+html{
+
+background: url("cosmos.jpg");
+
+
+}
+
+
+.container{
+
+  width: 500px;
+  height: 400px;
+  text-align: center;
+  background-color: rgba(12, 219, 120, 0.7);
+  margin: 0 auto;
+  margin-top: 170px;
+  border-radius: 30px;
+
+
+}
+
+.que_tex{
+transform: translate(-120px,105px);
+font-size: 25px;
+color: white;
+
+}
+
+.ans_tex{
+
+transform: translate(-85px,57px);
+ color: white;
+font-size: 25px;
+
+
+}
+
+.ans{
+transform: translate(75px,5px);
+width: 230px;
+height: 30px;
+
+}
+
+.dif_tex{
+transform: translate(-120px,10px);
+color: white;
+font-size: 25px;
+
+}
+
+.dif{
+  width: 230px;
+  height: 30px;
+ transform: translate(140px,-45px);
+}
+.upload_image{
+  color: white;
+  transform: translate(-10px,280px);
+  padding: 10px 15px;
+  background-color: rgb(147, 12, 219);
+  border:rgb(147, 12, 219);
+  border-radius: 1px;
+
+}
+.picker{
+  font-size: 20px;
+  top: 50%;
+  left: 50%;
+  transform: translate(205px,55px);
+}
+
+.logoff{
+  color: white;
+  transform: translate(-35px,60px);
+  padding: 10px 15px;
+  background-color: rgb(219, 12, 12);
+  border:rgb(219, 12, 12);
+  border-radius: 1px;
+}
+
+.help_but{
+color: white;
+transform:translate(-330px,60px);
+padding: 10px 15px;
+background-color: rgb(233, 109, 20);
+border:rgb(233, 109, 20);
+border-radius: 1px;
+}
+
+
+
+
+
+
