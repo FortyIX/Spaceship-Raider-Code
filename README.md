@@ -1,5 +1,12 @@
 # Spaceship-Radier-Code
-A 2D educational game, was my A-level computer science project
+A 2D educational game, was my A-level computer science project. It consists of a main game where student can play to pracice their maths skills, a web-based application which teacher can manage questions in game and an Android app that teachers can check the login status of students. 
+
+# Strucutre
+- Main Game code : The code of the main game implementation (in C sharp)
+- PHP File for Connection of database to Android app : The php file that connects database to the android app
+- PHP File for Connection of database to the game: The php file that connects database to the game 
+- Question_management_System : the web-based question management system
+
 
 # Screenshot under Development
 ![alt text](https://github.com/FortyIX/Spaceship-Radier-Code/blob/master/screenshot/under_dev.png "under development 1")
